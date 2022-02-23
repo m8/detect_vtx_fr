@@ -11,5 +11,7 @@
 7. return tlb_cache_miss - cache_miss
 
 ## Results
+x: clock cycle
+y: sample
 
-![](_images/2022-02-23-23-10-57.png)
+![](_images/2022-02-23-23-16-09.png)
